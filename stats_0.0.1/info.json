@@ -1,0 +1,11 @@
+{
+	"name": "stats",
+	"version": "0.0.1",
+	"title": "stats exporter",
+	"author": "Windfisch",
+	"contact": "flo@windfisch.org",
+	"homepage": "",
+	"description": "",
+	"factorio_version": "0.16",
+	"license": "MIT"
+}
